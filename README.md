@@ -19,7 +19,7 @@ virtualenv env
 
 #### Install the required libraries
 ```shell
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 #### Run development server
